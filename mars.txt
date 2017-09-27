@@ -2,3 +2,4 @@ this is a first line
 a second line
 a third line
 this is a new line now
+this is a new second line
